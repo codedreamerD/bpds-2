@@ -67,7 +67,7 @@ Dashboard ini membantu pengambil keputusan di perguruan tinggi dalam memahami fa
 
 ```
 Prototype sistem Machine Learning dapat diakses melalui link berikut :
-
+https://bpds-2-fadhilah-nurrahmayanti-a117xbm150.streamlit.app/
 
 Feature dapat diisi melalui sidebar Streamlit setelah selesai mengisi feature, bisa memencet tombol Predict Student Outcome, setelah itu output hasil prediksi akan muncul serta rekomendasi yang dapat dilakukan.
 ```
