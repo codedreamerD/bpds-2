@@ -45,7 +45,7 @@ Langkah langkah melakukan prediksi
 
 ## Business Dashboard
 
-![Business Dashboard](https://public.tableau.com/views/StudentPerformanceDashboard_17493664968670/StudentPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/StudentPerformanceDashboard_17493664968670/StudentPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Business dashboard yang dibuat bertujuan untuk memberikan wawasan mendalam mengenai pola akademik siswa dan faktor-faktor yang berkontribusi terhadap risiko drop-out. Dashboard ini akan membantu pihak akademik dalam memantau performa siswa serta mengambil langkah preventif untuk mengurangi angka drop-out.
 
@@ -67,10 +67,9 @@ Dashboard ini membantu pengambil keputusan di perguruan tinggi dalam memahami fa
 
 ```
 Prototype sistem Machine Learning dapat diakses melalui link berikut :
-https://bpds-finalproject-amalanfadil.streamlit.app/
+
 
 Feature dapat diisi melalui sidebar Streamlit setelah selesai mengisi feature, bisa memencet tombol Predict Student Outcome, setelah itu output hasil prediksi akan muncul serta rekomendasi yang dapat dilakukan.
-
 ```
 
 ## Kesimpulan
